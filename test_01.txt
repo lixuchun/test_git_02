@@ -2,9 +2,4 @@ hello test_01_09:32 001
 hello test_02_09:36 002
 hello test_03_09:52 003
 ------------------------
-solve the conflict_01 13:17
-check branch 01_0315_12:56
-test with stash
-ok test with stash pop and dev
-test Fast forward mode!!!!!!
-the first dev branch push!
+origin dev file!
