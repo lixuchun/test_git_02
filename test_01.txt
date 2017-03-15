@@ -6,3 +6,4 @@ solve the conflict_01 13:17
 check branch 01_0315_12:56
 test with stash
 ok test with stash pop and dev
+test Fast forward mode
